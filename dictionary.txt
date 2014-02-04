@@ -12,4 +12,503 @@ pen:pilot kalem
 glass:bardak
 notebook:defter
 trousers:pantolon
+battery:batarya
+book:kitap
+eraser:silgi
+jacket:ceket
+bottle:şişe
+paper:kağıt
+television:televizyon
+knife:bıçak
+bus:otobüs
+air:uçak
+train:tren
+bicycle:bisiklet
+car:araba
+wall:duvar
+yellow:sarı
+red:kırmızı
+black:siyah
+white:beyaz
+purple:mor
+pink:pembe
+blue:mavi
+darkblue:lacivert
+lightblue:açıkmavi
+english:ingilizce
+hello:merhaba
+what:ne
+which:hangi
+how:nasıl
+name:isim
+surname:soyad
+number:sayı
+wall clock:duvar saati
+monday:pazartesi
+tuesday:salı
+wendesday:çarşamba
+thursday:persembe
+friday:cuma
+saturday:cumartesi
+sunday:pazar
+one:bir
+two:iki
+three:üç
+four:dört
+five:beş
+six:altı
+seven:yedi
+eight:sekiz
+nine:dokuz
+ten:on
+eleven:onbir
+twelve:oniki
+thirty:onüç
+dog:köpek
+cat:kedi
+elefant:fil
+bird:kuş
+orange:turuncu
+brown:kahverengi
+green:yeşil
+grey:gri
+light brown:açık kahverengi
+light green:açık yeşil
+light blue:açık mavi
+dark brown:koyu kahverengi
+dark green:koyu yeşil
+dark blue:koyu mavi
+Months:Aylar
+January:Ocak
+February:Şubat
+March:Mart
+April:Nisan
+May:Mayıs
+June:Haziran
+July:Temmuz
+August:Ağustos
+September:Eylül
+October:Ekim
+November:Kasım
+December:Aralık
+spring:İlkbahar
+summer:Yaz
+autumn:Sonbahar
+winter:Kış
+New Year's Day:Yılbaşı günü
+April Fools' Day:1 Nisan
+Easter:Paskalya
+Good Friday:Paskalya yortusundan önceki cuma
+Easter Monday:Paskalya'dan sonraki ilk Pazartesi günü
+May Day:1 Mayıs
+Christmas:Noel
+Christmas Eve:Noel arifesi
+Christmas Day:Noel günü
+Boxing:Day
+New Year's:Eve	Yılbaşı gecesi
+Mother's Day:Anneler Günü
+Father's Day:Babalar Günü
+Valentine's Day:Sevgililer Günü
+father:baba
+mother:anne
+son:oğul
+daughter:kız
+parent:ebeveyn
+child:çocuk
+husband:koca
+wife:karı
+brother:erkek kardeş
+sister:kız kardeş
+uncle:amca veya dayı
+aunt:hala veya teyze
+nephew:erkek kuzen veya yeğen
+niece:kız yeğen veya kuzen
+grandmother:anneanne veya babaanne
+grandfather:büyükbaba veya dede
+grandparents:büyük ebeveynler
+grandson:erkek torun
+granddaughter:kız torun
+grandchild:torun
+cousin:kuzen/ kuzin
+boyfriend:erkek arkadaş
+girlfriend:kız arkadaş
+relation:akraba
+twin:ikiz kardeş
+adopt:evlat edinmek
+adoption:evlat edinme
+adopted:evlat edinilmiş
+only child:tek çocuk
+single parent:tek ebeveyn
+single mother:bekar anne
+infant	bebek/ küçük çocuk
+baby:bebek
+toddler:yeni yürümeye başlayan çocuk
+Marital:status
+single:bekar
+engaged:nişanlı
+married:evli
+separated:ayrılmış
+divorced:boşanmış
+widow:dul
+widower:dul erkek
+Weddings:Düğünler
+bride:gelin
+bridegroom:damat
+marriage:evlilik
+wedding:düğün
+wedding-ring:nikah yüzüğü
+wedding cake:düğün pastası
+wedding day:düğün günü
+best man:sağdıç
+wedding dress:gelinlik
+rain:yağmur
+snow:kar
+fog:sis
+ice:buz
+sun:güneş
+sunshine:güneşli/ günışığı
+cloud:bulut
+mist:pus
+hail:dolu
+wind:rüzgar
+breeze:esinti
+thunderstorm:gökgürültüsü
+gale:fırtına
+tornado:kasırga
+hurricane:hortum
+frost:don
+rainbow:gökkuşağı
+sleet:sulu kar
+storm:fırtına
+flood:sel
+drizzle:çiseleme
+strong winds:şiddetli rüzgarlar
+windy:rüzgarlı
+cloudy:bulutlu
+foggy:sisli
+misty:puslu
+icy:buzlu
+frosty:dona çekmiş hava
+stormy:fırtınalı
+dry:kuru
+wet:yağmurlu
+hot:sıcak
+cold:soğuk
+chilly:serin
+sunny:güneşli
+rainy:yağmurlu
+raindrop:yağmur damlası
+snowflake:kar tanesi
+hailstone:dolu tanesi
+melt:erimek
+freeze:donmak
+thaw:çözülmek
+snow:kar yağması
+rain:yağmur yağması
+hail:dolu yağması
+temperature:hava sıcaklığı
+thermometer:termometre
+high pressure:yüksek basınç
+low pressure:alçak basınç
+barometer:barometre
+degree:derece
+Celsius:Santigrat
+Fahrenheit:Fahrenhayt
+weather forecast:hava durumu
+drought:kuraklık
+rainfall:yağış
+heat wave:sıcak hava dalgası
+global warming:küresel ısınma
+Clothing:Giyim
+dress:elbise
+skirt:etek
+miniskirt:mini etek
+blouse:bluz
+stockings:çorap
+tights:kilotlu çorap
+socks:çorap
+shoes:ayakkabı
+high heels:topuklu ayakkabı
+sandals:sandalet
+stilettos:stilet
+trainers:spor ayakkabısı
+wellingtons:lastik çizme
+slippers:terlik
+shoelace:ayakkabı bağı
+boots:çizme
+leather jacket:deri ceket
+gloves:eldiven
+vest:yelek
+underpants:iç çamaşırı
+knickers:kadın kilodu
+bra:sütyen
+blazer:spor ceket
+swimming costume:mayo
+nightie (nightdress):gecelik
+dressing gown:sabahlık
+hat:şapka
+baseball cap:beysbal şapkası
+scarf:atkı
+overcoat:palto
+jacket:ceket
+suit:takım elbise
+shorts:şort
+jeans:kot pantalon
+shirt:gömlek
+tie:kravat
+t-shirt:tişört
+raincoat:yağmurluk
+anorak:anorak
+pullover:kazak
+sweater:süveter
+cardigan:hırka
+jumper:kazak
+boxer shorts:bokserşort
+top:üst
+thong:tanga
+wallet:erkek cüzdanı
+purse:kadın cüzdanı
+umbrella:şemsiye
+walking stick:baston
+glasses:gözlük
+earrings:küpe
+wedding ring:evlilik yüzlüğü
+engagement ring:nişan yüzlüğü
+lipstick:ruj
+makeup:makyaj
+ring:yüzlük
+bracelet:bilezik
+necklace:kolye
+piercing:piercing
+sunglasses:güneş gözlüğü
+cufflinks:kol düğmeleri
+belt:kemer
+lighter:çakmak
+keyring:anahtarlık
+keys:anahtarlar
+comb:erkek tarağı
+hairbrush:saç fırçası
+mirror:ayna
+wear:giymek
+put on:giymek
+take off:çıkartmak
+Country:Ülke
+Adjective:Sıfat
+Nationality:Milliyet
+boot:bagaj
+bonnet:motor kapağı
+wheel:tekerlek
+roof:tavan
+window:cam
+wing mirror:yan ayna
+rear view mirror:dikiz aynası
+dashboard:araba ön panosu
+steering whee:direksiyon
+front seat:ön koltuk
+back seat:arka koltuk
+passenger seat:yolcu koltuğu
+speedometer:hız göstergesi
+temperature gauge:hararet göstergesi
+windscreen:taşıt ön camı
+windscreen wiper:cam silecekleri
+brakes:frenler
+clutch:debriyaj
+accelerator:gaz
+manual:otomatik olmayan
+automatic:otomatik
+indicator:sinyal
+headlights:farlar
+headlamps:ön farlar
+state school:devlet okulu
+private school:özel okul
+pupil:öğrenci
+student:öğrenci
+teacher:öğretmen
+subject:konu
+exam:sınav
+school:okul
+classroom:sınıf
+nursery school:anaokulu [2-5 yaş arası]
+primary school:ilkokul [5-11 yaş arası]
+secondary school:ortaokul [11-16/18 yaş arası]
+university:üniversite
+undergraduate:üniversite öğrencisi
+graduate:üniversite mezunu/ lisansüstü öğrencisi
+post-graduate:yüksek lisans/ ihtisas yapan öğrenci
+degree:lisans/diploma
+lesson:ders
+blackboard:kara tahta
+whiteboard:beyaz tahta
+lecture:ders
+lecturer:okutman/ öğretim üyesi
+professor:profesör
+headmaster:okul müdürü
+headmistress:okul müdiresi
+head teacher:kıdemli öğretmen
+school dinners:okul yemekleri
+course:kurs
+term:dönem
+curriculum:müfredat
+computer room:bilgisayar odası
+orchestra:orkestra
+choir:koro
+conductor:maestro
+band:grup
+play an instrument:bir enstrüman çalmak
+sing:şarkı söylemek
+musician:müzisyen
+pianist:piyanist
+violinist:kemancı
+guitarist:gitarist
+singer:şarkıcı
+drummer:davulcu
+concert:konser
+song:şarkı
+love song:aşk şarkısı
+tune:ezgi
+rhythm:ritim
+beat:tempo
+note:nota
+melody:melodi
+harmony:ahenk
+mic:mikrofon
+hi-fi:yüksek duyarlılık
+stereo:stereo
+DJ:DJ
+speakers:hoparlörler
+CD:cd
+CD player:cd çalar
+MP3 player:mp3 çalar
+malaria:sıtma
+chicken pox:su çiceği
+arthritis:kireçlenme
+cough:öksürük
+asthma:astım
+diabetes:şeker hastalığı
+cramp:adele kasılması
+HIV:hiv
+AIDS:aids
+cancer:kanser
+lung cancer:akciğer kanseri
+heart attack:kalp krizi
+stroke:felç
+fracture:kırık
+sprain:burkmak
+athlete's foot:mantar
+rabies:kuduz
+tonsillitis:bademcik iltihabı
+lump:yumru
+measles:kızamık
+mumps:kabakulak
+rheumatism:romatizma
+hay fever:bahar nezlesi
+headache:baş ağrısı
+migraine:migren
+pneumonia:zatüre
+cold sore:uçuk
+earache:kulak ağrısı
+food poisoning:yemek zehirlenmesi
+rash:kaşıntı
+eczema:egzema
+virus:virus
+cold:soğuk alğınlığı
+broken:kırık
+cut:kesik
+bruise:morluk
+blister:su toplama
+allergy:alerji
+chest pain:göğüs ağrısı
+eating disorder:yeme bozukluğu
+acne:sivilce
+high blood pressure:yüksek tansiyon
+backache:sırt ağrısı
+swelling:şişme
+wart:siğil
+depression:depresyon
+spots:lekeler/ benekler
+flu:grip
+fever:ateş
+single room:tek kişilik oda
+double room:çift kişilik oda
+twin room:çift yataklı oda
+triple room:üç kişilik oda
+suite:suit
+shower:duş
+bath:küvet
+en-suite bathroom:oda içi banyo
+full board:tam pansiyon
+reservation:rezervasyon
+book:yer ayırtmak
+fire escape:yangın çıkışı
+restaurant:restoran
+games room:oyun odası
+gym:spor salonu
+hotel:otel
+lift:asansör
+luggage:bagaj
+alarm:alarm
+wake-up call:uyandırma servisi
+key:anahtar
+front door:ön kapı
+room service:oda servisi
+chambermaid:oda hizmetçisi
+housekeeper:kat görevlisi
+hotel lobby:otel lobisi
+receptionist:resepsiyon
+manager:müdür
+porter:kapı görevlisi
+laundry:çamaşır
+sauna:sauna
+swimming pool:yüzme havuzu
+beauty salon:güzellik salonu
+coffee shop:kafe
+corridor:koridor
+room number:oda numarası
+car park:araba parkı
+check-in:otele giriş yapmak
+registration:kayıt yapmak
+check-out:otelden çıkış yapmak
+pay the bill:hesabı ödemek
+check in:otele giriş yapmak
+check out:otelden çıkış yapmak
+rabbit:tavşan
+hamster:hamster
+goldfish:japon balığı
+cow:inek
+sheep:koyun
+pig:domuz
+horse:at
+chicken:tavuk
+fox:tilki
+deer:geyik
+mouse:fare
+rat:sıçan
+frog:kurbağa
+snake:yılan
+lion:aslan
+tiger:kaplan
+monkey:maymun
+elephant:fil
+giraffe:zürafa
+bear:ayı
+crow:karga
+dove:kumru
+owl:baykuş
+eagle:kartal
+ant:karınca
+fly:sinek
+spider:örümcek
+bee:arı
+wasp:yaban arısı
+butterfly:kelebek
+trout:alabalık
+salmon:somon balığı
+tuna:ton balığı
+shark:köpek balığı
+crab:yengeç
+flower:çiçek
+
+
+
+
 
