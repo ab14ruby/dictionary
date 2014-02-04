@@ -1,6 +1,6 @@
 system('clear')
 require './hash_file_relation'
-puts "***** Welcome to Ruby-Dic *****"
+puts " ***** Welcome to Ruby-Dic ***** "
 puts "\tPress 1 for Eng => Tr"
 puts "\tPress 2 for Tr => Eng"
 puts "\tPress 3 for Exit"
